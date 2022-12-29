@@ -79,7 +79,7 @@
 
 ### GitHub stats
 <div align="">
-  <a href="https://github.com/icarosolon">
+  <a href="https://github.com/yurigabriel958">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarosolon&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarosolon&layout=compact&langs_count=6"/>
 </div>
