@@ -80,12 +80,12 @@
 ### GitHub stats
 <div align="">
   <a href="https://github.com/yurigabriel958">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarosolon&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarosolon&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurigabriel958&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabriel958&layout=compact&langs_count=6"/>
 </div>
    
 ### Social media
 
 <div>
-    <a href="https://www.linkedin.com/in/icaro-solon-souza-tamarindo-59105b14b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/yuri-gabriel-souza-tamarindo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
