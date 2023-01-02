@@ -59,9 +59,9 @@
 
 ### GitHub stats
 <div align="">
-  <a href="https://github.com/yurigabriel958">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurigabriel958&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigabriel958&layout=compact&langs_count=6"/>
+  <a href="https://github.com/yuritamarindo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuritamarindo&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuritamarindo&layout=compact&langs_count=6"/>
 </div>
    
 ### Social media
